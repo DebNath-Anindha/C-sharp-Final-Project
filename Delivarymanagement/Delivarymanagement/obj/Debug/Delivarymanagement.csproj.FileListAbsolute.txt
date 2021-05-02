@@ -1,0 +1,45 @@
+D:\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.exe.config
+D:\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.exe
+D:\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.pdb
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csprojAssemblyReference.cache
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.Properties.Resources.resources
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.Category_Management.resources
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.employee.resources
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.Home.resources
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.LoginForm.resources
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.ProductManagement.resources
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.RegistrationForm.resources
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csproj.GenerateResource.cache
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csproj.CoreCompileInputs.cache
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.exe
+D:\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.pdb
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.exe.config
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.exe
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.pdb
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csprojAssemblyReference.cache
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.Properties.Resources.resources
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.Category_Management.resources
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.employee.resources
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.Home.resources
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.LoginForm.resources
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.ProductManagement.resources
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.RegistrationForm.resources
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csproj.GenerateResource.cache
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csproj.CoreCompileInputs.cache
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.exe
+D:\New folder (5)\Delivarymanagement (1)\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.pdb
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.exe.config
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.exe
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\bin\Debug\Delivarymanagement.pdb
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csprojAssemblyReference.cache
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.Properties.Resources.resources
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.Category_Management.resources
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.employee.resources
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.Home.resources
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.LoginForm.resources
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.ProductManagement.resources
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.UI_Layer.RegistrationForm.resources
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csproj.GenerateResource.cache
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.csproj.CoreCompileInputs.cache
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.exe
+F:\Delivarymanagement\Delivarymanagement\Super Shop Spring 2019-20\obj\Debug\Delivarymanagement.pdb
